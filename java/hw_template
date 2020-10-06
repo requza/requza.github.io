@@ -1,42 +1,18 @@
 <!doctype html> <!-- hw.html -->
-<html>
-
-  <head>
+<html><head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width,initial-scale=1" />
     <title>hw</title>
     <style>
-      a:link {
-        color: blue;
-        text-decoration: none;
-      }
-
-      a:visited {
-        color: purple;
-        text-decoration: none;
-      }
-
-      a:hover {
-        text-decoration: underline;
-      }
-
-      a:active {
-        color: red;
-        text-decoration: none;
-      }
-
-    </style>
-  </head>
-
-  <body>
-    <h1>
-      제목텍스트
-    </h1>
+      a:link {color: blue; text-decoration: none;}
+      a:visited {color: purple; text-decoration: none;}
+      a:hover {text-decoration: underline;}
+      a:active {color: red; text-decoration: none;}</style></head>
+      <body><h1>제목텍스트</h1>
+      
     <h3>소스코드</h3>
     <img src="https://">
     <h3>실행예시</h3>
     <img src="https://">
 
-  </body>
-
-</html>
+  </body></html>
